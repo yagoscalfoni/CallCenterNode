@@ -32,3 +32,13 @@ A backend Node.js application designed to manage and organize a simple call cent
 
 ## 📂 Project Structure
 
+src/ 
+├── controllers/ 
+├── middlewares/
+├── models/
+├── repositories/
+├── routes/
+├── services/
+├── app.js
+└── server.js
+
